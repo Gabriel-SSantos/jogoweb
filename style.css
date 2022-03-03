@@ -1,7 +1,8 @@
 ﻿@charset "UTF-8"; 
 body{
     display: flex;
-    justify-content: center;
+    justify-content: column;
+    align-items: center;
 }
 div{
     display: flex;
