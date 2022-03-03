@@ -1,0 +1,58 @@
+﻿@charset "UTF-8"; 
+body{
+    display: flex;
+    justify-content: center;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    
+}
+#principal{
+    flex-direction: column;
+    align-items: center;
+    height: 200px;
+    border: solid;
+    border-radius: 5%;
+    box-shadow: 1px 1px 1px 1px;
+    padding: 4px;
+    background-color: rgba(57, 196, 196, 0.733);
+    
+}
+#pontos{
+    height: 40px;
+    
+    
+    
+}
+#botões{
+    align-items: center;
+    height: 50px;
+    
+    
+}
+img{
+    height: 150px;
+    width: 150px;
+   
+    
+}
+#img2{
+    width: 300px;
+    
+}
+input{
+    background-color: rgb(59, 59, 201);
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px;
+    margin: 5px;
+}
+main{
+    border: solid;
+    border-radius: 10%;
+    padding: 12px;
+    background-color: rgba(221, 5, 5, 0.815);
+}
